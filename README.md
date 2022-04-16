@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @senjaputras
 - 👀 I’m interested in Cyber Security and now explore Data Analyst
-- 🌱 I’m currently learning ELK, SIEM, CCNA, etc
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkedin
+- I’m currently learning ELK, SIEM, CCNA, etc
 
 <!---
 senjaputras/senjaputras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
