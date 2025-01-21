@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @senjaputras
-- 👀 I’m interested in Cyber Security and now explore Data Analyst
+- 👀 I’m interested in Cyber Security and now explore Security Engineer
 - I’m currently learning ELK, SIEM, CCNA, etc
 
 <!---
