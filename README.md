@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @senjaputras
 - 👀 I’m interested in Cyber Security and now explore Security Engineer
-- I’m currently learning ELK, SIEM, CCNA, etc
+- I’m currently learning ELK, SIEM, CCNA, Bash Script, Automation, etc
 
 <!---
 senjaputras/senjaputras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
